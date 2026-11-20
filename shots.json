@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"01-cover.jpg","note":"Checklist with 13 of 55 earned, spoiler-free on, the missable trophy Positive Mental Attitude open with its guide","path":"/?seed=13&spoiler=on&open=28","viewport":{"height":800,"width":1280}},{"file":"02-roadmap.jpg","note":"Five-stage roadmap to the platinum with per-stage trophy lists and earned counts","path":"/?seed=13&view=roadmap","viewport":{"height":800,"width":1280}},{"file":"03-missables.jpg","note":"Missables page: the one possibly missable trophy with its guide and sources","path":"/?seed=13&view=missables","viewport":{"height":800,"width":1280}},{"file":"04-filters.jpg","note":"Checklist with kind filters and grade filter; The Shootist guide open with its sources","path":"/?seed=13&open=17","viewport":{"height":800,"width":1280}}]
